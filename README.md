@@ -2,7 +2,7 @@
 
 ## Objective
 
-This project creates and builds data models and deploy database for the dog adoption data. 
+This project creates and builds data models and deploys database for the dog adoption data. 
 
 ## Technologies
 - Database: PostgreSQL
