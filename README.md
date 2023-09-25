@@ -1,4 +1,4 @@
-# 🐶 Dog Adoption Project
+# Dog Adoption Project
 
 ## Objective
 
